@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{E93920BA-173D-4236-9E88-62CB77AA83D8}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NotesWithAutotagging PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotesWithAutotagging/Controllers/NotesController.cs">
+    <Files>
+      <File FileName="NotesWithAutotagging/Program.cs" Line="22" Column="32" />
+      <File FileName="NotesWithAutotagging/Data/NoteContext.cs" Line="18" Column="1" />
+      <File FileName="NotesWithAutotagging/Controllers/NotesController.cs" Line="69" Column="40" />
+      <File FileName="NotesWithAutotagging/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="NotesWithAutotagging/appsettings.json" Line="19" Column="1" />
+      <File FileName="NotesWithAutotagging/Models/Note.cs" Line="27" Column="4" />
+      <File FileName="NotesWithAutotagging/Properties/launchSettings.json" Line="23" Column="49" />
+      <File FileName="NotesWithAututagging.Tests/UnitTests/UnitTests.cs" Line="31" Column="58" />
+      <File FileName="NotesWithAututagging.Tests/IntegrationTests/IntegrationTests.cs" Line="30" Column="1" />
+      <File FileName="NotesWithAutotagging/Models/Login.cs" Line="12" Column="1" />
+      <File FileName="NotesWithAutotagging/Models/JWTToken.cs" Line="10" Column="1" />
+      <File FileName="NotesWithAutotagging/Controllers/AuthenticationController.cs" Line="30" Column="112" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotesWithAutotagging" expanded="True" selected="True">
+            <Node name="NotesWithAutotagging" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20240131125913_InitialCreate.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NotesWithAutotagging" selected="True">
+            <Node name="NotesWithAututagging.Tests" expanded="True">
+              <Node name="NotesWithAututagging.Tests.IntegrationTests" expanded="True">
+                <Node name="IntegrationTests" expanded="True" />
+              </Node>
+              <Node name="NotesWithAututagging.Tests.UnitTests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
